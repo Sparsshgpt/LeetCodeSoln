@@ -11,12 +11,7 @@ public:
         if(dp[m][n] != -1)
             return dp[m][n];
         
-        /*
-            (rabb) b (it)
-            (ra)   b (bbit)
-            (rab)  b (bit)
-            This can help to understand the if condition below
-        */
+        
         if(s[m-1] == t[n-1])
             return dp[m][n] = solve(s, t, m-1, n) + solve(s, t, m-1, n-1);
         else
