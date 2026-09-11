@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2974-minimum-number-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0387-first-unique-character-in-a-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
