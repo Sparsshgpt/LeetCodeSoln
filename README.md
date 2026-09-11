@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
 | [3870-count-commas-in-range](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
