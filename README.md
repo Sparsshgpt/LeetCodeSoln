@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2974-minimum-number-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2974-minimum-number-game) |
 | [3904-smallest-stable-index-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0940-distinct-subsequences-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2974-minimum-number-game) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
