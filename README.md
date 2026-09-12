@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3024-type-of-triangle) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Recursion
 |  |
