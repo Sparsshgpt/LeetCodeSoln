@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2974-minimum-number-game) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2974-minimum-number-game) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1486-xor-operation-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
