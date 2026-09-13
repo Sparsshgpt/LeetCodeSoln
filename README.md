@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3024-type-of-triangle) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
