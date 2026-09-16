@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0709-to-lower-case) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0387-first-unique-character-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
