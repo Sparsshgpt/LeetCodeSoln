@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0387-first-unique-character-in-a-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0004-median-of-two-sorted-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Polygons
 |  |
@@ -160,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
