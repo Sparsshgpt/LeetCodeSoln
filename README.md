@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Stack
 |  |
 | ------- |
