@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1550-three-consecutive-odds](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
