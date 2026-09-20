@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
