@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -122,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2974-minimum-number-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2974-minimum-number-game) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1927-sum-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
