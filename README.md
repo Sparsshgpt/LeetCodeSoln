@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0657-robot-return-to-origin) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
