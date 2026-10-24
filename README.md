@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2942-find-words-containing-character](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3019-number-of-changing-keys) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2769-find-the-maximum-achievable-number) |
