@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1550-three-consecutive-odds](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1550-three-consecutive-odds) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bracket Sequences
 |  |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
