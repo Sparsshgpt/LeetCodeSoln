@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0215-kth-largest-element-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0682-baseball-game](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1401-circle-and-rectangle-overlapping) |
