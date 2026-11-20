@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
