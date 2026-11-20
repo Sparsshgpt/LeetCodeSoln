@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0940-distinct-subsequences-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
