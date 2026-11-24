@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3524-find-x-value-of-array-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sparsshgpt/LeetCodeSoln/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Game Theory
 |  |
 | ------- |
